@@ -1,0 +1,16 @@
+.childDiv{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(216, 157, 157);
+    padding: 10px;
+    margin: 10px;
+    min-width: 300px;
+}
+.b1{
+    background-color: green;
+    border-radius: 10px;
+}
+.b2{
+    background-color: red;
+    border-radius: 10px;
+}
