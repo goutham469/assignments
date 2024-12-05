@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.Heading{
+  background-image: linear-gradient(red,blue,green,orange);
+  padding: 0px;
+  margin: 0px;
+}

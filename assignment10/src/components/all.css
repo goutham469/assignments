@@ -1,0 +1,41 @@
+.signUpForm{
+    border: 1px solid brown;
+    border-radius: 15px;
+    background-color: rgb(165, 187, 206);
+    padding: 30px;
+}
+.signUpLabel{
+    padding: 5px;
+    margin: 5px;
+}
+.loginForm{
+    border: 2px solid brown;
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 40px;
+}
+.TechnologiesChildImages{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.TechNavBarDiv{
+    color: green;
+    min-height: 50px;
+}
+.TechNavBarElements{
+    background-color: rgb(176, 211, 92);
+    border-radius: 50px;
+}
+.TechnologiesChildText{
+    margin: 10px;
+    border: 1px solid black;
+    line-height: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:linear-gradient(violet,blue,green,red);
+    font-weight: 100;
+    color: bisque;
+    border-radius: 50px;
+    padding: 10px;
+}

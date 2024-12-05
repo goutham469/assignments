@@ -1,0 +1,15 @@
+.UserDiv{
+    border: 2px solid green;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 60px;
+}
+.userImg{
+    border-radius: 10px;
+    margin-top:20px;
+}
+.bodyDiv{
+    padding: 0px;
+    background-color: rgb(173, 157, 189);
+}

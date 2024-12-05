@@ -1,0 +1,27 @@
+.label1{
+    margin: 5px;
+    padding: 5px;
+}
+.addTaskDiv{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 100px;
+    padding: 30px;
+    height: 100%;
+    background-color: rgba(138, 173, 205, 0.2);
+}
+.taskItem{
+    border: 1px solid wheat;
+    border-radius: 5px;
+    background-color: rgb(188, 188, 156);
+    color: rgb(222, 102, 33);
+    padding: 5px;
+    margin: 10px;
+}
+.mainDiv{
+    background-image: url('https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png');
+    height: 1000px;
+}
+body{
+    height: 1000px;
+}

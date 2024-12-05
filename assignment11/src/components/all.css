@@ -1,0 +1,24 @@
+.SignInForm{
+    border: 2px soild brown;
+    background-color: bisque;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+    width: fit-content;
+}
+label,input{
+    margin: 5px;
+    border-radius: 10px;
+    color:rgb(238, 9, 9);
+}
+.signInSubmitButton{
+    border: 3px solid green;
+    background-color: rgb(98, 137, 96);
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.signInSubmitButton:hover{
+    background-color: aqua;
+}

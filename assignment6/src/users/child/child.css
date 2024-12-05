@@ -1,0 +1,8 @@
+.countDisplay{
+    border: 1px sild plum;
+    background-color: plum;
+    border-radius: 30px;
+    min-height: 40px;
+    font-size: 30px;
+    width: fit-content;
+}

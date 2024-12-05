@@ -1,0 +1,13 @@
+.ChildDiv{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(105, 151, 105);
+    color: rgb(237, 92, 9);
+    margin: 20px;
+    min-height: 500px;
+    margin: 30px;
+    display: inline-block;
+}
+.Price{color: rgb(30, 0, 255);}
+.Title{color: aqua;}

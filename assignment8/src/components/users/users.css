@@ -1,0 +1,20 @@
+table{
+    border: 3px solid brown;
+    margin: 20px;
+    padding: 10px;
+    background-color: bisque;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid black;
+    margin: 5px;
+}
+td,th{
+    border: 1px solid green;
+    
+}
+.totalCount{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}

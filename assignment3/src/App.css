@@ -1,0 +1,8 @@
+.App{
+  text-align: center;
+}
+.MainBox{
+  justify-content: space-around;
+  columns: 3;
+}
+img{width: 250px;height : 150px;border-radius: 20px;}
